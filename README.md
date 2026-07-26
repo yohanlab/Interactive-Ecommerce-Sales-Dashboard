@@ -72,8 +72,6 @@ Using **Power BI**, **Power Query**, **Data Modeling**, and **DAX**, raw sales d
 
 ## 📷 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
 <p><img src="new dash.png" width="900"><p>
 
 ---
